@@ -1,4 +1,4 @@
-# Montcalm BIG IDEA!
+# Montcalm County BIG IDEA!
 
 ## Executive Summary
 Welcome to information regarding helping to establish Montcalm County (MI) Information Technology and CyberSecurity opportunties.  The hope is coordinate with Montcalm County High Schools, ISD, and Montcalm Community College providing opportunities to students interested in these areas
