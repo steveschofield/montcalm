@@ -1,2 +1,15 @@
-# montcalm
-Montcalm County GenCyber and IT related material including potential 2024 GenCyber camp at Montcalm Community College
+# Montcalm BIG IDEA!
+
+## Executive Summary
+Welcome to information regarding helping to establish Montcalm County (MI) Information Technology and CyberSecurity opportunties. 
+
+## Overview 
+Coordinate with Montcalm High Schools, ISD, and Montcalm Community College to provide opportunities to students interested in these areas
+
+# GOALS
+
+### Depending on support and meeting requirements, host a GenCyber Camp at a location in Montcalm County in Summer of 2024
+
+### Establish Club at each school targeting students interested IT, CyberSecurity or Software Development
+
+### Offer guidance, mentoring to students to leverage online content, self-paced to increase knowledge
